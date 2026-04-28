@@ -83,5 +83,6 @@ public class fleeScript : MonoBehaviour
 ```
 ### Output:
 <img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/969c6700-79fa-4c7f-a582-28976bba929a" />
+
 ### Result:
 Thus the simple seek behavior was implemented successfully.
